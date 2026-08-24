@@ -38,7 +38,18 @@ The subject is rebuilt with concise, smooth, stable black hand line carrying nat
 
 These samples demonstrate the 022 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 022 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Break a source-bound subject out of one black field with clean line and one colour signal |
+| **Recognizable signature** | PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · CLEAN ELASTIC LINE · ONE COLOUR SIGNAL |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 A “black block plus line drawing” easily collapses into a poster template: the subject is pasted over a rectangle, the boundary contains no event, the line is too smooth, and image, field, and type do not interact.
 
@@ -50,7 +61,7 @@ lock source facts → choose one horizontal or vertical pure-black rectangle →
 
 If an unrelated photograph could replace the source without materially changing rectangle orientation, subject placement, breakout feature, contour, white negative form, or copy, the result is not 022.
 
-## The 022 visual contract
+## What makes the finished style recognizable
 
 - **One pure-black field:** use one horizontal or vertical rectangle, never several decorative blocks.
 - **Subject mostly inside:** preserve at least three source-specific cues for identity, contour, pose, action, function, and relation; most of the subject must occupy the field.
