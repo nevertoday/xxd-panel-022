@@ -1,58 +1,79 @@
-# XXD Panel 022 | Clean-Line Black-Field Breakout + One Colour Signal
+# XXD Panel 022 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/022-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 022. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Process only the one source photograph explicitly supplied for the current task. Lock one principal subject or inseparable relation, its main action, and at least three source-specific cues. Never borrow a subject, field orientation, breakout device, line character, copy, or composition from samples, old outputs, or another input.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-## Black visual field and genuine breakout
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-Choose one horizontal or vertical pure-black rectangle from source weight, contour flow, and action direction. Most of the subject must exist inside it. Select exactly one most distinctive head, top contour, branch, roof, limb, object edge, or other key structure as the breakout focus.
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-The subject must feel as if it emerges from, passes through, grows out of, or breaks the black space. The rectangle is simultaneously background, space, and compositional structure. Never draw a complete subject over a decorative rectangle, let several parts break out equally, or reduce the field to a pasted colour block.
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-## Clean stable hand line and negative shape
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-Retain only essential outer contour, pose, and key structure. Draw with concise, smooth, stable black hand line carrying natural elasticity and rhythm. Allow slight human variation, but reject conspicuous jitter, repeated tracing, hairy noise, random breaks, deliberate awkwardness, and sterile machine-uniform vector line.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-Use white negative form and very small grey planes for recognition, with only a few expression, construction, fold, or local shadow lines. Never fill the subject as a pure black silhouette. Reject broad greyscale, realistic shading, gradients, airbrush, 3D volume, and complex internal rendering.
+### Text generated from the original prompt
 
-## Exactly one colour signal
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-Extract one representative highlight colour from the source and modestly purify it. Apply it to exactly one smallest decisive detail: a body part, small object, key surface, action focus, or emotion signal. The accent must be tiny, precise, narratively useful, and feel like the only illuminated point in the image. Reject a second accent colour, broad colour area, global tinting, gradients, decorative swatches, or arbitrary colouring.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-## Geometric order versus free contour
+### User-exact text
 
-The black rectangle carries geometric order; asymmetric placement, local crop, and breakout create life. Surround the field with generous pure-white paper for a strong restrained black/white/grey area relation.
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-Allow only a few straight lines, inclined planes, platforms, edges, or geometric slices when they support scale, direction, boundary, or breakout action. Reject complex scenes, a second subject, decorative frames, template centring, and unrelated symbols.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-## Typography belonging to 022
+### No text
 
-Obey the locked automatic, exact-user, or text-free copy mode and target language or locale. Preserve exact user wording verbatim. In text-free mode render no letter, character, number, or pseudo-text.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-Automatic copy derives one short title from action, emotion, state, relation, or a grounded metaphor, then adds one to three tiny annotations, indexes, state words, or phrases. Factual numbers, places, dates, and provenance require user input or reliable evidence.
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-Attach type to the black-field edge, hide it in white negative form, follow the breakout direction, or align and deliberately misalign it with subject contour. Use small black handwriting, slender sans, or restrained serif so it reads as an illustrator's annotation and editorial mark rather than a commercial title or signature.
-
-Preserve native shaping, joining, spacing, direction, punctuation, and semantic line breaks. Never force Latin tracking, rotation, or handwriting logic onto Chinese, Japanese, Korean, or Arabic.
-
-## Mode and hard gate
-
-
-Hard gate: one pure-black horizontal or vertical rectangle; most of the subject inside it; exactly one defining structure genuinely crosses the boundary; at least three source cues and the principal action remain legible; concise, smooth, stable black illustrator line with natural elasticity; white negative form plus tiny grey planes; exactly one tiny, precise, source-derived, narratively useful colour accent; generous white paper, asymmetric placement, and local crop; one short title plus one to three micro-groups enter the field edge, negative shape, breakout direction, or contour; no jittery broken retracing, hairy noise, pure silhouette, multiple or broad colours, sterile vector, complex scene, realistic shading, 3D, template centring, or pseudo-text.
-
-If any hard condition fails, correct the generated asset. Never fake the artwork with programmatic drawing, SVG, HTML, Canvas, or a post-composited type overlay.
+```text
+complete verbatim 022-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
