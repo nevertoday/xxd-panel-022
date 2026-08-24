@@ -22,6 +22,22 @@ XXD Panel 022는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 주제는 간결하고 매끄럽고 안정적이며 자연스러운 손그림 탄성을 지닌 검정 선으로 재구성합니다. 흰 음형이 인식을 맡고 아주 작은 회색면만 구조를 돕습니다. 원본에서 대표 색 하나를 추출해 가장 결정적인 작은 부분 하나만 밝힙니다. 넓은 흰 종이, 비대칭 배치, 국소 크롭과 작은 편집 문자가 돌파 동작을 가볍고 재치 있게 만듭니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 022의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 022이 필요한가요
 
 일반적인 ‘검정 면＋선화’는 주제를 직사각형 위에 붙인 포스터 템플릿으로 쉽게 무너집니다. 경계에는 사건이 없고 선은 너무 매끈하며 주제, 검정 영역과 문자가 서로 작동하지 않습니다.
@@ -44,22 +60,6 @@ XXD Panel 022는 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **색 신호는 정확히 하나:** 원본에서 대표적인 밝은 색 하나를 추출하고 적당히 정제해 가장 서사적인 작은 부분 하나에만 둡니다. 두 번째 색, 넓은 색면과 전체 착색은 제외합니다.
 - **비대칭과 국소 크롭:** 넓은 흰 종이와 치우친 배치로 긴장을 만들고 보조 요소를 복잡한 배경으로 키우지 않습니다.
 - **문자도 돌파에 참여:** 짧은 제목 하나와 미세 문자 1–3그룹을 영역 가장자리, 음형, 돌파 방향 또는 윤곽 안에 넣고 별도 라벨처럼 붙이지 않습니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 022의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

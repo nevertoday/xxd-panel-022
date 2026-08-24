@@ -22,6 +22,22 @@ XXD Panel 022 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 主体以简洁、顺滑、稳定且带自然手绘弹性的黑线出现；白色负形承担主要识别，极少灰面只用于辅助结构。再从原图提取一个代表色，只点亮一个最关键的小局部。大面积白纸、不对称位置、局部裁切与小型编辑文字，让越界动作轻巧、幽默而克制。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 022 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 022
 
 普通“黑色块＋线稿”很容易退化成主体贴在矩形上的海报模板：边界没有事件，线条过于顺滑，主体、黑色域和文字彼此无关。
@@ -44,22 +60,6 @@ XXD Panel 022 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **恰好一个彩色点：** 从原图提取一个代表性亮点色，适度提纯后只落在一个最关键、最有叙事性的小局部；禁止第二种颜色、大片彩色或全局染色。
 - **不对称与局部裁切：** 大面积白纸和偏置构图制造张力，辅助线面保持极少，不发展成复杂场景。
 - **编辑文字参与越界：** 一个短标题＋1–3 组微文字进入矩形边缘、白色负形、越界方向或主体轮廓，而不是另贴标签。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 022 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

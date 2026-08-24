@@ -22,6 +22,22 @@ XXD Panel 022 is an image-generation Skill for Codex and compatible agents. It l
 
 The subject is rebuilt with concise, smooth, stable black hand line carrying natural elasticity. White negative form carries recognition and tiny grey planes clarify structure. One representative colour extracted from the source illuminates exactly one decisive local detail. Generous paper, asymmetric placement, local cropping, and small editorial type make the breakout light, witty, and restrained.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 022 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why it exists
 
 A “black block plus line drawing” easily collapses into a poster template: the subject is pasted over a rectangle, the boundary contains no event, the line is too smooth, and image, field, and type do not interact.
@@ -44,22 +60,6 @@ If an unrelated photograph could replace the source without materially changing 
 - **Exactly one colour signal:** modestly purify one representative source highlight and apply it to one smallest decisive detail; reject a second colour, broad colour area, or global tint.
 - **Asymmetry and local crop:** generous paper and offset placement create tension; supporting marks stay sparse instead of becoming scenery.
 - **Type participates:** one short title and one to three micro-groups enter the field edge, negative form, breakout direction, or contour instead of sitting in a detached label.
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 022 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

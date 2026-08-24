@@ -22,6 +22,22 @@ XXD Panel 022 は、Codex と互換 Agent のための画像生成 Skill です�
 
 主体は、簡潔で滑らか、安定しながら自然な手描きの弾力を持つ黒線で再構成します。白いネガ形が識別を担い、灰色はごく小さな面だけ。元写真から一つの代表色を取り、最も重要な小さな箇所だけを照らします。広い白紙、非対称配置、局所的なトリミング、小さな編集文字が、越境を軽やかでユーモラスかつ抑制的に見せます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 作例 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 022 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 022 が必要なのか
 
 一般的な「黒い面＋線画」は、主体を矩形に貼っただけのポスターテンプレートへ崩れがちです。境界に出来事がなく、線は滑らかすぎ、主体、黒い領域、文字が互いに関係しません。
@@ -44,22 +60,6 @@ XXD Panel 022 は、Codex と互換 Agent のための画像生成 Skill です�
 - **色は一点だけ：** 元写真から代表的な明色を一つ取り、少し純化して最も物語性のある小さな箇所だけに置きます。二色目、広い色面、全体着色は不可です。
 - **非対称と局所トリミング：** 広い白紙と偏った配置で緊張を作り、補助要素を複雑な背景へ発展させません。
 - **文字も越境に参加：** 一つの短い題と1〜3組の微小文字を、領域の縁、ネガ形、越境方向、輪郭へ入れ、別付けラベルにしません。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 022 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 022 作例 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 022 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
