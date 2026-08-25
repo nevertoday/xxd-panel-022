@@ -16,16 +16,7 @@
 
 </div>
 
-> PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · CLEAN ELASTIC LINE · ONE COLOUR SIGNAL
-
-XXD Panel 022 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, and relation from the photograph, then establishes one horizontal or vertical pure-black rectangle as the main field. Most of the subject remains inside it while exactly one defining structure naturally crosses the boundary.
-
-The subject is rebuilt with concise, smooth, stable black hand line carrying natural elasticity. White negative form carries recognition and tiny grey planes clarify structure. One representative colour extracted from the source illuminates exactly one decisive local detail. Generous paper, asymmetric placement, local cropping, and small editorial type make the breakout light, witty, and restrained.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
-> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
 
 <table>
   <tr>
@@ -34,9 +25,18 @@ The subject is rebuilt with concise, smooth, stable black hand line carrying nat
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090277026066546845) · 2026-08-20<br>
+> GPT2 x 越界 x 黑白 x 局部彩色 x 美学提示词 x VOL.022
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090277026066546845">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 022 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> PURE-BLACK RECTANGLE · SUBJECT MOSTLY INSIDE · ONE FEATURE BREAKS OUT · CLEAN ELASTIC LINE · ONE COLOUR SIGNAL
+
+XXD Panel 022 is an image-generation Skill for Codex and compatible agents. It locks identity, contour, pose, action, function, and relation from the photograph, then establishes one horizontal or vertical pure-black rectangle as the main field. Most of the subject remains inside it while exactly one defining structure naturally crosses the boundary.
+
+The subject is rebuilt with concise, smooth, stable black hand line carrying natural elasticity. White negative form carries recognition and tiny grey planes clarify structure. One representative colour extracted from the source illuminates exactly one decisive local detail. Generous paper, asymmetric placement, local cropping, and small editorial type make the breakout light, witty, and restrained.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 022 right for you?
