@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 022
+# 🦁 XXD Panel 022｜彩点越界
 
 ### 用流畅线稿与唯一彩色点，让照片主体从纯黑矩形中越界而出
 
