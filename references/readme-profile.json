@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 022｜Color-Dot Trespass: redraws the subject of a photo as a minimal black-and-white editorial illustration in which one pure-black horizontal or vertical rectangle is the main field: most of the subject sits inside while its most recognisable part breaks out across the border, drawn in clean, smooth, steady hand line with natural spring (not shaky or scribbled), white negative shapes and a little grey, on wide white paper, with one tiny, precisely placed accent colour taken from the photo on the single most meaningful detail, plus a short title and one to three tiny notes in handwriting or thin type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-022 or asks for black-rectangle break-out line art with one accent colour, clean ink editorial illustration from a photo.",
+  "short_description": "彩点越界：让照片主体用流畅线稿从纯黑矩形里越界而出，只在一处点上一个彩色",
+  "zh-CN": {
+    "name": "彩点越界",
+    "tagline": "让照片主体用流畅线稿从一块纯黑矩形里越界而出，只在最关键的一处点上颜色。",
+    "look": "画面以一块横向或纵向的纯黑矩形为主，主体大部分在里面，最有辨识度的头部、屋顶、枝叶、手脚或器物边缘越出边界，像从黑色空间里探出来。线条是干净利落的插画师线稿：简洁、顺滑、稳定，有自然的手绘弹性，不抖、不重复描边，配白色负形和少量灰面。整体黑白灰，只在一个最有记忆点的局部，比如一条围巾、一只眼睛、一个小物件，点上一小块从照片里取来并提纯的颜色。四周是大片白纸，文字是一个短标题加一到三组极小注释，贴着矩形边缘或顺着越界方向。",
+    "traits": [
+      "黑色矩形",
+      "稳定线条",
+      "单点彩色",
+      "主体越界",
+      "克制"
+    ],
+    "good": [
+      "有一个突出部位、又有一处关键颜色的主体：戴红围巾的人、黄色雨伞、橘猫的眼睛",
+      "动作能伸出边界的画面：探头的狗、伸手摘果子的人、从窗口探出的花",
+      "想要干净、聪明、适合做杂志或品牌插画的照片"
+    ],
+    "poor": [
+      "靠很多颜色表达的照片，这里只允许一个小小的彩点",
+      "想要粗糙涂鸦感、毛躁乱线或刻意稚拙的效果",
+      "场景复杂、主体很多，或想要居中对称构图的需求"
+    ]
+  },
+  "en": {
+    "name": "Color-Dot Trespass",
+    "tagline": "Lets the subject of a photo break out of a pure-black rectangle in clean line, with colour on one key spot only.",
+    "look": "A horizontal or vertical pure-black rectangle anchors the picture. Most of the subject sits inside it, while its most recognisable part, a head, roofline, branch, limb or the edge of an object, crosses the border as if leaning out of the dark. The line is a clean illustrator's line: simple, smooth and steady with natural spring, not shaky or re-traced, paired with white negative shapes and a little grey. Everything is black, white and grey except one most memorable detail, such as a scarf, an eye or a small object, which gets a small patch of colour taken from the photo and purified. Wide white paper surrounds it, and text is a short title with one to three tiny notes along the rectangle's edge or following the break-out.",
+    "traits": [
+      "Black rectangle",
+      "Steady line",
+      "One accent colour",
+      "Breaking the frame",
+      "Restraint"
+    ],
+    "good": [
+      "Subjects with one part that sticks out and one key colour: someone in a red scarf, a yellow umbrella, a ginger cat's eye",
+      "Actions that can reach past an edge: a dog poking its head out, someone reaching for fruit, flowers leaning out of a window",
+      "Photos you want as a clean, clever magazine or brand illustration"
+    ],
+    "poor": [
+      "Photos that rely on many colours, since only one small spot of colour is allowed",
+      "Requests for a rough scribbled look, fuzzy lines or deliberate naivety",
+      "Complex scenes with many subjects, or requests for a centred, symmetrical layout"
+    ]
+  },
+  "ja": {
+    "name": "色ドットのはみ出し",
+    "tagline": "写真の主役を、なめらかな線で真っ黒な長方形からはみ出させ、いちばん大事な一か所だけに色を置きます。",
+    "look": "画面は横長か縦長の真っ黒な長方形が中心です。主役の大部分はその中にあり、いちばん特徴的な頭、屋根の線、枝葉、手足、器の縁などが境界を越え、黒い空間から身を乗り出すように見えます。線はすっきりしたイラストレーターの線画で、シンプルでなめらか、安定していて自然な手描きの弾みがあり、震えやなぞり直しはありません。そこに白い負の形と少しのグレーの面を合わせます。全体は白黒とグレーで、いちばん印象に残る一か所、たとえばマフラー、片方の目、小さなモノにだけ、写真から取って澄ませた色を小さくのせます。まわりは広い白い紙で、文字は短いタイトルと一〜三組のごく小さな注記を、長方形の縁やはみ出す方向に沿って置きます。",
+    "traits": [
+      "黒い長方形",
+      "安定した線",
+      "一点の色",
+      "はみ出す主役",
+      "抑制"
+    ],
+    "good": [
+      "一部が突き出し、大事な色が一つある主役：赤いマフラーの人、黄色い傘、茶トラ猫の目",
+      "動きが境界を越えられる場面：顔を出す犬、果物に手を伸ばす人、窓から身を乗り出す花",
+      "すっきりと気の利いた雑誌やブランドのイラストにしたい写真"
+    ],
+    "poor": [
+      "たくさんの色で語る写真（使える色は小さな一点だけです）",
+      "ざらついた落書き風、毛羽立った線、わざと素朴にした仕上がりを求める場合",
+      "主役が多い複雑な場面、中央の対称構図を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "색점의 경계 넘기",
+    "tagline": "사진의 주인공이 매끄러운 선으로 새까만 직사각형 밖으로 넘어 나오게 하고, 가장 중요한 한 곳에만 색을 둡니다.",
+    "look": "화면의 중심은 가로나 세로로 놓인 새까만 직사각형입니다. 주인공 대부분은 그 안에 있고, 가장 알아보기 쉬운 머리, 지붕선, 가지와 잎, 팔다리, 물건의 가장자리가 경계를 넘어 검은 공간에서 몸을 내민 듯 보입니다. 선은 깔끔한 일러스트레이터의 선화로, 간결하고 매끄럽고 안정되며 자연스러운 손그림의 탄력이 있고 떨림이나 덧그림은 없습니다. 여기에 흰 음의 형태와 약간의 회색 면을 더합니다. 전체는 흑백과 회색이고, 가장 기억에 남는 한 부분, 예를 들어 목도리, 한쪽 눈, 작은 물건에만 사진에서 가져와 맑게 다듬은 색을 작게 얹습니다. 둘레는 넓은 흰 종이이고, 글자는 짧은 제목과 아주 작은 메모 한두 세 묶음을 직사각형 가장자리나 넘어 나오는 방향을 따라 둡니다.",
+    "traits": [
+      "검은 직사각형",
+      "안정된 선",
+      "포인트 색 하나",
+      "경계를 넘는 주인공",
+      "절제"
+    ],
+    "good": [
+      "한 부분이 튀어나오고 중요한 색이 하나 있는 주인공: 빨간 목도리를 한 사람, 노란 우산, 치즈 고양이의 눈",
+      "동작이 경계 밖으로 뻗을 수 있는 장면: 고개를 내민 강아지, 과일을 따려 손을 뻗는 사람, 창밖으로 기운 꽃",
+      "깔끔하고 재치 있는 잡지나 브랜드 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 색으로 이야기하는 사진(쓸 수 있는 색은 작은 점 하나뿐입니다)",
+      "거친 낙서 느낌, 보풀 같은 선, 일부러 서툰 느낌을 원하는 경우",
+      "주인공이 많은 복잡한 장면이나 가운데 대칭 구도를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تجاوز النقاط الملونة",
+    "tagline": "يجعل عنصر الصورة يتجاوز مستطيلاً أسود خالصاً بخط نظيف، مع لون في موضع واحد مهم فقط.",
+    "look": "يرتكز التصميم على مستطيل أسود خالص أفقي أو عمودي. يقع معظم العنصر داخله، بينما يعبر أوضح أجزائه حدوده، كالرأس أو خط السقف أو الأغصان أو الأطراف أو حافة شيء ما، كأنه يطلّ من الفضاء الأسود. الخط خط رسّام نظيف: بسيط وأملس وثابت، فيه مرونة اليد الطبيعية، بلا ارتعاش ولا إعادة تتبّع، ومعه أشكال بيضاء سالبة وقليل من الرمادي. كل شيء بالأسود والأبيض والرمادي ما عدا تفصيلاً واحداً هو الأكثر رسوخاً في الذاكرة، كوشاح أو عين أو شيء صغير، يأخذ بقعة لون صغيرة من الصورة بعد تنقيتها. يحيط به ورق أبيض واسع، والنص عنوان قصير مع ملاحظة صغيرة جداً إلى ثلاث على حافة المستطيل أو في اتجاه الخروج.",
+    "traits": [
+      "مستطيل أسود",
+      "خط ثابت",
+      "لون مميز واحد",
+      "تجاوز الإطار",
+      "اقتصاد"
+    ],
+    "good": [
+      "عناصر يبرز منها جزء واحد ولها لون مهم واحد: شخص بوشاح أحمر، مظلة صفراء، عين قط برتقالي",
+      "حركات يمكن أن تتخطى الحافة: كلب يطلّ برأسه، شخص يمد يده إلى ثمرة، زهور تميل من نافذة",
+      "صور تريدها رسماً نظيفاً ذكياً لمجلة أو علامة تجارية"
+    ],
+    "poor": [
+      "صور تعتمد على ألوان كثيرة، فلا يُسمح هنا إلا ببقعة لون صغيرة واحدة",
+      "طلب مظهر خربشة خشن أو خطوط مشعثة أو بساطة متعمَّدة",
+      "مشاهد معقدة كثيرة العناصر، أو طلب تكوين مركزي متماثل"
+    ]
+  }
+}
